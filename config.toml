@@ -1,0 +1,25 @@
+baseurl = "http://ognt.io/"
+title = "Old Guy New Trick"
+copyright = "Copyright &copy; 2019 - John F. Hogarty"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "John F. Hogarty"
+    github = "hogihung"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "An old guys journey to learn how to code."
+
+
