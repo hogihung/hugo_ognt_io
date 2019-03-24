@@ -1,7 +1,7 @@
 +++
 title = "Migrating Blog to Hugo"
 date = 2019-03-23T18:55:17-04:00
-draft = true
+draft = false
 tags = ['blog']
 categories = ['general']
 +++

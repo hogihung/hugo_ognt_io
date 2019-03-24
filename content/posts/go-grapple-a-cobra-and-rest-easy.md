@@ -1,7 +1,7 @@
 +++
 title = "Go Grapple a Cobra and Rest Easy"
 date = 2019-03-23T19:31:19-04:00
-draft = true
+draft = false
 tags = ['golang']
 categories = ['cli', 'cobra']
 +++
