@@ -70,10 +70,10 @@ In a nutshell, REST Easy is a command-line (CLI) based application that one can
 use to help them execute 'Health Checks' against a single (AdHoc) or group (via
 JSON formatted file) of REST based endpoints.
 
-Future blog posts will illustrate demonstrate how the above was created as well
-as cover the build out of each component of the application.  I will attempt to
-take small bites in an effort to keep the postings of a reasonable lenght and
-not be something one reads to fall asleep.  :)
+Future blog posts will demonstrate how the above was created as well as cover
+the build out of each component of the application.  I will attempt to take
+small bites in an effort to keep the postings of a reasonable lenght and not
+be something one reads to fall asleep.  :)
 
 Until the next posting, be well and keep learning!
 
