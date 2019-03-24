@@ -2,7 +2,7 @@ baseurl = "https://ognt-io-hugo.herokuapp.com/"
 title = "Old Guy New Trick"
 copyright = "Copyright &copy; 2019 - John F. Hogarty"
 canonifyurls = true
-theme = "hyde"
+theme = "kiera"
 
 paginate = 3
 
