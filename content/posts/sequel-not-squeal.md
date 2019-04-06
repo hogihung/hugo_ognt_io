@@ -1,7 +1,7 @@
 ---
 title: "Sequel Like A Hog(i) Not Squeal Like A Pig"
 date: 2019-04-06T018:30:14-06:00
-draft: true
+draft: false
 ---
 
 # Sequel Like A Hog(i), Not Squeal Like A Pig
