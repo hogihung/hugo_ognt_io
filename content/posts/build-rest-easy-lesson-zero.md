@@ -135,6 +135,10 @@ the lesson is too long, I will break it down into multiple lessons.
 You can find the Github repo for the code that we will build, as well as all of
 the lesson plans, on my Github:  [rest_easy_go](https://github.com/hogihung/rest_easy_go).
 
+For those that are like me, a visual learner, I will also be making videos for
+each of the lessons.  Those videos will go into more detail for each lesson and
+will most likely be full of brilliant typos and goofs on my part.  
+
 Until the next posting, be well and keep learning!
 
 HoGi...
